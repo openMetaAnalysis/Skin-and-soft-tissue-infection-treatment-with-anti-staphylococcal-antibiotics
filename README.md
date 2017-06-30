@@ -1,7 +1,7 @@
-Template a full living systematic-review of interventions
+Skin and soft tissue infection treatment with anti staphylococcal antibiotics
 =================================
 **[Click here](
-http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-interventions
+https://openmetaanalysis.github.io/Skin-and-soft-tissue-infection-treatment-with-anti-staphylococcal-antibiotics/
 ) to see the meta-analysis.**
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
@@ -20,12 +20,12 @@ Text files:
 * [Risk of bias table](../../tree/gh-pages/tables/bias.xml)
 * [PRISMA files](../master/files/PRISMA)
 * [PICO and Bias tables (word processor versions)](../master/files/study-details) (links to master)
-* [PICO and Bias tables (word processor versions)](../../tree/gh-pages/study-details) (links to gh-pages)
 
 Images:
 * [Forest plots](../master/files/forest-plots)
 * [GRADE Profiles](../master/files/GRADE-Profiles)
 * [Metaregression plots](../master/files/metaregression) (optional)
+* [Network plots](../master/files/network) (optional)
 
 **Do you want to make a copy and then suggestion revisions?**
 
