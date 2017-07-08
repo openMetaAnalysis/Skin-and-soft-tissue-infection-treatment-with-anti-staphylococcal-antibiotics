@@ -1,0 +1,7 @@
+Study,Year,PMID,experimental_events,experimental_total,control_events,control_total,Antibiotic,Aby_class
+Duam,2017,28657870,93,529,80,257,Mixed,Antibiotic active against MRSA
+Duam-TMP/SMX,2017,28657870,48,263,80,257,TMP-SMX,Antibiotic active against MRSA
+Duam-Clinda,2017,28657870,45,266,80,257,Clindamycin,Antibiotic active against MRSA
+Duong,2010,19409657,3,73,4,76,TMP-SMX,Antibiotic active against MRSA
+Schmitz,2010,20346539,15,88,27,102,TMP-SMX,Antibiotic active against MRSA
+Rajendran,2007,17846141,13,82,8,84,Cephalexin,Antibiotic not active against MRSA
