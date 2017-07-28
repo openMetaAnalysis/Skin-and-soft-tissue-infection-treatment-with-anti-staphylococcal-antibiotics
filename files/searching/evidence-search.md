@@ -41,9 +41,9 @@ Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalv
  * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en) (search 6/19/2017)
 
 Stevens (IDSA). Guidelines. Clin Infect Dis 2014 PMID  [24973422](http://pubmed.gov/24973422).
- * [296 citations ](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7120216129274764329&scipsc=1) (search 7/28/2017)
+ * [593 citations ](https://scholar.google.com/scholar?cites=7120216129274764329&as_sdt=2005&sciodt=0,5&hl=en) (search 7/28/2017)
 
 ### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
 Mehta et al. 
-* [12 citations](https://scholar.google.com/scholar?q=random&btnG=&hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=7605211014335624801&scipsc=1) (limited to citing articles containing random\*)
-* [x additional studies found](https://pubmed.gov/25503625,27045252)
+* [296 citations ](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7120216129274764329&scipsc=1) (search 7/28/2017)
+* [10 additional studies found](https://pubmed.gov/25503625,27045252)
