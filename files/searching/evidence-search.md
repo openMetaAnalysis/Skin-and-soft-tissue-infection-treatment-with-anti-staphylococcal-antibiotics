@@ -40,9 +40,8 @@ Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.nc
 Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
  * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en) (search 6/19/2017)
 
-Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuvres in the termination of junctional tachycardia. Lancet. 1988.PMID: [2897005](http://pubmed.gov/2897005).
- * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801) (search 6/19/2017)
-
+Stevens (IDSA). Guidelines. Clin Infect Dis 2014 PMID  [24973422](http://pubmed.gov/24973422).
+ * [296 citations ](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7120216129274764329&scipsc=1) (search 7/28/2017)
 
 ### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
 Mehta et al. 
