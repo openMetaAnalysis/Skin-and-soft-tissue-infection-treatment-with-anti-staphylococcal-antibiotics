@@ -15,10 +15,12 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 * 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
 
 ### Vector searching ('Related citations' search)
+(under construction)
+
 Seed articles: PMIDs [28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789)
 * [695 Related citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789)
-* 23 citations when above combined with `AND abscess* AND random* AND (2013[PDAT]:3000[PDAT])` (date of meta-analysis by Singer, 2014 (PMID [23686731](https://pubmed.gov/23686731))
-  * 0 additional articles found
+* 19 citations when above combined with `AND abscess* AND random* AND (2014/01/01[PDAT]:3000[PDAT])` (date of meta-analysis by Fahimi, 2015 (PMID [2344079](https://pubmed.gov/2344079))
+  * X additional articles found
 
 ## ClinicalTrials.gov
 
