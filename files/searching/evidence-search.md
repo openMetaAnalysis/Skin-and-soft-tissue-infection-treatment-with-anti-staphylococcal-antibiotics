@@ -16,10 +16,10 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 
 ### Vector searching ('Related citations' search)
 (under construction)
-Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=26314489%2028552271%2028140013%209851958%202897005)
-* [595 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26314489,28552271,28140013,9851958,2897005)
-* 99 citations when above limited to years 2014 - 2017 (time period after Cochrane review)
-  * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
+Seed articles: PMIDs [28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789)
+* [695 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789)
+* 0 citations when above combined with `AND abcess*`
+  * 0 additional articles found
 
 ## ClinicalTrials.gov
 
