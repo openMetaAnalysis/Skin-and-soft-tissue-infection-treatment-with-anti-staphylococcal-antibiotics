@@ -19,13 +19,13 @@ Randomized trials of sking abscesses after drainage that compare antibitoics to 
 Seed articles: PMIDs [28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789)
 * [695 Related citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=28657870,26962903,21339275,20346539,19409657,17846141,3880635,322789)
 * 19 citations when above combined with `AND abscess* AND random* AND (2014/01/01[PDAT]:3000[PDAT])` (date of meta-analysis by Fahimi, 2015 (PMID [2344079](https://pubmed.gov/2344079))
-  * 1 possible article found (Holmes, 2016 PMID [26578074](http://pubmed.gov/26578074)). Place under review session.
+  * 1 possible article found (Holmes, 2016 PMID [26578074](http://pubmed.gov/26578074)). Placed under review session.
 
 ## ClinicalTrials.gov
 
-`skin AND abscess`
-* [116 citations](https://clinicaltrials.gov/ct2/results?term=skin+AND+abscess&Search=Search) (search 8/13/2017)
-  * Search results review pending
+`skin AND abscess AND antibiotics`
+* [11 citations](https://clinicaltrials.gov/ct2/results?term=skin+AND+abscess+antibiotics&Search=Search) (search 8/13/2017)
+  * 1 possible article found ([NCT01498744](https://clinicaltrials.gov/ct2/show/results/NCT01498744) Clinda 1 vs 5 days). Placed under review session.
 
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
 
