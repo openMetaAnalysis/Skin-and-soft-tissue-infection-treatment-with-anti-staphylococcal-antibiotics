@@ -24,9 +24,9 @@ Seed articles: PMIDs [28657870,26962903,21339275,20346539,19409657,17846141,3880
 
 ## ClinicalTrials.gov
 
-`supraventricular tachycardia AND Valsalva`
-* [1 citations](https://clinicaltrials.gov/ct2/results?term=supraventricular+tachycardia+AND+Valsalva&Search=Search) (search 6/19/2017)
-  * [NCT02216240](https://clinicaltrials.gov/ct2/show/NCT02216240) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
+`skin AND abscess`
+* [116 citations](https://clinicaltrials.gov/ct2/results?term=skin+AND+abscess&Search=Search) (search 8/13/2017)
+  * Search results review pending
 
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
 
@@ -38,13 +38,17 @@ Seed articles: PMIDs [28657870,26962903,21339275,20346539,19409657,17846141,3880
 (under construction)
 
 ### Identifying seminal studies that are the most highly cited
-Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
- * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en) (search 6/19/2017)
-
 Stevens (IDSA). Guidelines. Clin Infect Dis 2014 PMID  [24973422](http://pubmed.gov/24973422).
- * [593 citations ](https://scholar.google.com/scholar?cites=7120216129274764329&as_sdt=2005&sciodt=0,5&hl=en) (search 7/28/2017)
+ * [593 citations ](https://scholar.google.com/scholar?cites=7120216129274764329&as_sdt=2005&sciodt=0,5&hl=en) (search 8/13/2017)
 
-### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
-Mehta et al. 
-* [296 citations ](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7120216129274764329&scipsc=1) (search 7/28/2017)
-* [10 additional studies found](https://pubmed.gov/25503625,27045252)
+Rajendran et al. Randomized, double-blind, placebo-controlled trial of cephalexin for treatment of uncomplicated skin abscesses in a population at risk for community-acquired methicillin-resistant Staphylococcus aureus infection. Antimicrob Agents Chemother. 2007 PMID:  [17846141](http://pubmed.gov/17846141)
+ * [214 citations ](https://scholar.google.com/scholar?cites=6138710916347169289&as_sdt=2005&sciodt=0,5&hl=en) (search 8/13/2017)
+ 
+### Searching 'random*' within the highly citing studyies using Google Scholar
+Stevens (IDSA). Guidelines. Clin Infect Dis 2014 PMID  [24973422](http://pubmed.gov/24973422).
+ * [306 citations ](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7120216129274764329&scipsc=1) (search 8/13/2017)
+* Search results review pending
+
+Rajendran et al. Randomized, double-blind, placebo-controlled trial of cephalexin for treatment of uncomplicated skin abscesses in a population at risk for community-acquired methicillin-resistant Staphylococcus aureus infection. Antimicrob Agents Chemother. 2007 PMID:  [17846141](http://pubmed.gov/17846141). Limiting to citations since 2014
+ * [45 citations ](https://scholar.google.com/scholar?cites=6138710916347169289&as_sdt=2005&sciodt=0,5&hl=en) (search 8/13/2017)
+ * Search results review pending
