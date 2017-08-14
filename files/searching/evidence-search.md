@@ -1,7 +1,7 @@
 # Evidence search
 (under construction)
 ## Inclusion criteria
-Randomized trials of [disease] that compare [intervention] to placebo.
+Randomized trials of sking abscesses after drainage that compare antibitoics to placebo.
 
 ## Reconciliation tables
 (under construction)
@@ -10,9 +10,9 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 ## PubMed
 ### Boolean term searching
 
-[supraventricular tachycardia AND Valsalva AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=supraventricular%20tachycardia%20AND%20Valsalva%20AND%20random*)
-* Retrieves 5 articles in hand (100% sensitivity) (search 6/19/2017)
-* 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
+[(skin OR superficial OR cutaneous) AND (abscess* OR staph*) AND random*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=%28skin%20OR%20superficial%20OR%20cutaneous%29%20AND%20%28abscess%2A%20OR%20staph%2A%29%20AND%20random%2A)
+* Retrieves 8 articles in hand (100% sensitivity)
+* 219 total citations found when limited to since 2014 (search results reviewed pending; X additional studies found)
 
 ### Vector searching ('Related citations' search)
 (under construction)
@@ -45,7 +45,7 @@ Rajendran et al. Randomized, double-blind, placebo-controlled trial of cephalexi
  * [214 citations ](https://scholar.google.com/scholar?cites=6138710916347169289&as_sdt=2005&sciodt=0,5&hl=en) (search 8/13/2017)
  
 ### Searching 'randomized and abscess' within the highly cited studies using Google Scholar
-Stevens (IDSA). Guidelines. Clin Infect Dis 2014 PMID  [24973422](http://pubmed.gov/24973422).
+Stevens (IDSA). Guidelines. Clin Infect Dis 2014 PMID  [24973422](http://pubmed.gov/24973422). Limiting to citations since 2014
  * [171 citations ](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7120216129274764329&scipsc=1) (search 8/13/2017)
 * Search results review pending
 
