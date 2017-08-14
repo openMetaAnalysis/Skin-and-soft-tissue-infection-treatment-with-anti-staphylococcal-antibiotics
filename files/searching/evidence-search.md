@@ -44,9 +44,9 @@ Stevens (IDSA). Guidelines. Clin Infect Dis 2014 PMID  [24973422](http://pubmed.
 Rajendran et al. Randomized, double-blind, placebo-controlled trial of cephalexin for treatment of uncomplicated skin abscesses in a population at risk for community-acquired methicillin-resistant Staphylococcus aureus infection. Antimicrob Agents Chemother. 2007 PMID:  [17846141](http://pubmed.gov/17846141)
  * [214 citations ](https://scholar.google.com/scholar?cites=6138710916347169289&as_sdt=2005&sciodt=0,5&hl=en) (search 8/13/2017)
  
-### Searching 'random*' within the highly citing studyies using Google Scholar
+### Searching 'randomized and abscess' within the highly cited studies using Google Scholar
 Stevens (IDSA). Guidelines. Clin Infect Dis 2014 PMID  [24973422](http://pubmed.gov/24973422).
- * [306 citations ](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7120216129274764329&scipsc=1) (search 8/13/2017)
+ * [171 citations ](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7120216129274764329&scipsc=1) (search 8/13/2017)
 * Search results review pending
 
 Rajendran et al. Randomized, double-blind, placebo-controlled trial of cephalexin for treatment of uncomplicated skin abscesses in a population at risk for community-acquired methicillin-resistant Staphylococcus aureus infection. Antimicrob Agents Chemother. 2007 PMID:  [17846141](http://pubmed.gov/17846141). Limiting to citations since 2014
